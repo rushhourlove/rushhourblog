@@ -1,0 +1,10 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Johnny's Journal",
+	"icon": "https://micro.blog/rushhour/avatar.jpg",
+	"home_page_url": "https://jze.ng/",
+	"feed_url": "https://jze.ng/feed.json",
+	"items": [
+		
+	]
+}
