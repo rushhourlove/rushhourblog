@@ -7,12 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://rushhour.micro.blog/2023/05/30/im-okay-now.html",
+				
+				"content_html": "<h2 id=\"poem\">poem</h2>\n<p>i&rsquo;m&hellip; i&rsquo;m okay now, this is just a part of life; our favorite song is playing in the background. <br>\ni hear the words, &ldquo;you are imperfect, permanently and inevitably flawed. and you are beautiful.” <br>\n&ldquo;do you even love me?&rdquo; i whisper, in tears.  <br>\nmy battery is at one percent. just maybe. i dial her number.  <br>\nnothing happens. <br>\ni pull the trigger.</p>\n<p>(now read lines backwards)</p>\n",
+				"content_text": "poem\n---------------\ni'm... i'm okay now, this is just a part of life; our favorite song is playing in the background.    \ni hear the words, \"you are imperfect, permanently and inevitably flawed. and you are beautiful.”    \n\"do you even love me?\" i whisper, in tears.     \nmy battery is at one percent. just maybe. i dial her number.     \nnothing happens.    \ni pull the trigger.      \n\n(now read lines backwards)\n",
+				"date_published": "2023-05-30T17:55:58-04:00",
+				"url": "https://jze.ng/2023/05/30/im-okay-now.html",
+				"tags": ["poetry"]
+			},
+			{
+				"id": "http://rushhour.micro.blog/2023/05/30/random-thought-about.html",
+				
+				"content_html": "<p>random thought about learning:</p>\n<p>&ldquo;gifted&rdquo; kids are placed in accelerated programs as early as elementary. in middle school they will continue to be gifted because they learned more relative to their peers. same in high school. same in college. some people are lucky; some people just need an honest chance.</p>\n",
+				"content_text": "random thought about learning:\r\n\r\n\"gifted\" kids are placed in accelerated programs as early as elementary. in middle school they will continue to be gifted because they learned more relative to their peers. same in high school. same in college. some people are lucky; some people just need an honest chance.\n",
+				"date_published": "2023-05-30T17:18:46-04:00",
+				"url": "https://jze.ng/2023/05/30/random-thought-about.html"
+			},
+			{
+				"id": "http://rushhour.micro.blog/2023/05/30/a-heavy-truth.html",
+				
+				"content_html": "<p>a heavy truth <br>\ndestined to lose <br>\nmade to feel hopeless<br>\ntold to hope less<br>\ndrunk on a feeling<br>\nwith the stars in the sky</p>\n",
+				"content_text": "a heavy truth    \ndestined to lose    \nmade to feel hopeless  \ntold to hope less   \ndrunk on a feeling   \nwith the stars in the sky   \n",
+				"date_published": "2023-05-30T17:14:15-04:00",
+				"url": "https://jze.ng/2023/05/30/a-heavy-truth.html",
+				"tags": ["poetry"]
+			},
+			{
 				"id": "http://rushhour.micro.blog/2023/05/30/jiggly-cupcake.html",
 				
-				"content_html": "<p class=\"codepen\" data-height=\"300\" data-theme-id=\"45423\" data-default-tab=\"result\" data-slug-hash=\"RwemmXx\" data-user=\"mapsdkhsd\" data-token=\"127021929d667577baeece1d29cfeb12\" style=\"height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;\">\r\n  jiggly cupcake\r\n</p>\r\n<script async src=\"https://cpwebassets.codepen.io/assets/embed/ei.js\"></script>\n",
-				"content_text": "<p class=\"codepen\" data-height=\"300\" data-theme-id=\"45423\" data-default-tab=\"result\" data-slug-hash=\"RwemmXx\" data-user=\"mapsdkhsd\" data-token=\"127021929d667577baeece1d29cfeb12\" style=\"height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;\">\r\n  jiggly cupcake\r\n</p>\r\n<script async src=\"https://cpwebassets.codepen.io/assets/embed/ei.js\"></script>\n",
+				"content_html": "<p>jiggly is good</p>\n<p class=\"codepen\" data-height=\"300\" data-theme-id=\"45423\" data-default-tab=\"result\" data-slug-hash=\"RwemmXx\" data-user=\"mapsdkhsd\" data-token=\"127021929d667577baeece1d29cfeb12\" style=\"height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;\">\n  jiggly cupcake\n</p>\n<script async src=\"https://cpwebassets.codepen.io/assets/embed/ei.js\"></script>\nlol the mouth is weird on mobile, idk\n",
+				"content_text": "jiggly is good\n\n<p class=\"codepen\" data-height=\"300\" data-theme-id=\"45423\" data-default-tab=\"result\" data-slug-hash=\"RwemmXx\" data-user=\"mapsdkhsd\" data-token=\"127021929d667577baeece1d29cfeb12\" style=\"height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;\">\n  jiggly cupcake\n</p>\n<script async src=\"https://cpwebassets.codepen.io/assets/embed/ei.js\"></script>\nlol the mouth is weird on mobile, idk\n",
 				"date_published": "2023-05-30T16:28:54-04:00",
-				"url": "https://jze.ng/2023/05/30/jiggly-cupcake.html"
+				"url": "https://jze.ng/2023/05/30/jiggly-cupcake.html",
+				"tags": ["code"]
 			},
 			{
 				"id": "http://rushhour.micro.blog/2023/05/28/public-markets-are.html",
@@ -20,7 +47,8 @@
 				"content_html": "<p>public markets are effectively for dumb money because they&rsquo;re essentially set up to take advantage of investors. unless u wanna abuse those losers.</p>\n",
 				"content_text": "public markets are effectively for dumb money because they're essentially set up to take advantage of investors. unless u wanna abuse those losers.\n",
 				"date_published": "2023-05-28T21:46:55-04:00",
-				"url": "https://jze.ng/2023/05/28/public-markets-are.html"
+				"url": "https://jze.ng/2023/05/28/public-markets-are.html",
+				"tags": ["thought"]
 			},
 			{
 				"id": "http://rushhour.micro.blog/2023/05/28/214457.html",
@@ -28,7 +56,8 @@
 				"content_html": "<p><a href=\"https://www.psychologytoday.com/us/blog/magnetic-partners/202305/the-never-married-a-new-normal\">www.psychologytoday.com/us/blog/m&hellip;</a></p>\n<p>👀</p>\n",
 				"content_text": "[www.psychologytoday.com/us/blog/m...](https://www.psychologytoday.com/us/blog/magnetic-partners/202305/the-never-married-a-new-normal)\n\n👀\n",
 				"date_published": "2023-05-28T21:44:57-04:00",
-				"url": "https://jze.ng/2023/05/28/214457.html"
+				"url": "https://jze.ng/2023/05/28/214457.html",
+				"tags": ["thought"]
 			},
 			{
 				"id": "http://rushhour.micro.blog/2023/05/28/someday-when-the.html",
@@ -36,7 +65,8 @@
 				"content_html": "<p>someday when the future meets the past<br>\nwhen your hope is dangling by a string<br>\ni’ll share in your suffering<br>\njust give me reasons to believe<br>\nthat you would do the same for me</p>\n",
 				"content_text": "someday when the future meets the past  \nwhen your hope is dangling by a string  \ni’ll share in your suffering  \njust give me reasons to believe  \nthat you would do the same for me  \n",
 				"date_published": "2023-05-28T20:49:18-04:00",
-				"url": "https://jze.ng/2023/05/28/someday-when-the.html"
+				"url": "https://jze.ng/2023/05/28/someday-when-the.html",
+				"tags": ["poetry"]
 			},
 			{
 				"id": "http://rushhour.micro.blog/2023/05/28/and-when-the.html",
