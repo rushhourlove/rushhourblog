@@ -7,12 +7,83 @@
 	"items": [
 		
 			{
-				"id": "http://rushhour.micro.blog/2023/06/21/143504.html",
+				"id": "http://rushhour.micro.blog/2023/06/26/smartphones-are-such.html",
 				
-				"content_html": "<p><img src=\"uploads/2023/3340a6922d.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/af2c318f9b.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/img-4084.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/d503921472.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/555562eb94.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/d0776ff379.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/368c3dfa0a.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2023/3340a6922d.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/af2c318f9b.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/img-4084.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/d503921472.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/555562eb94.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/d0776ff379.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/368c3dfa0a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>smartphones are such an enemy of creative thinking<br>\nif creativity requires boredom, a device that ensures you’re never bored is quite problematic</p>\n<p>-sent from iphone</p>\n<p>got a new iphone, it&rsquo;s blue</p>\n",
+				"content_text": "smartphones are such an enemy of creative thinking   \r\nif creativity requires boredom, a device that ensures you’re never bored is quite problematic   \r\n\r\n-sent from iphone\r\n\r\ngot a new iphone, it's blue\n",
+				"date_published": "2023-06-26T15:55:12-04:00",
+				"url": "https://jze.ng/2023/06/26/smartphones-are-such.html"
+			},
+			{
+				"id": "http://rushhour.micro.blog/2023/06/22/you-ever-yell.html",
+				
+				"content_html": "<p>you ever yell quietly?<br>\nthe sound that doesn&rsquo;t escape your lips <br>\ninstead, reveberating everywhere within <br>\nuntil it runs of fuel,</p>\n<p>&ldquo;nah i&rsquo;m perfectly fine&rdquo;</p>\n",
+				"content_text": "you ever yell quietly?   \nthe sound that doesn't escape your lips    \ninstead, reveberating everywhere within    \nuntil it runs of fuel,  \n\n\"nah i'm perfectly fine\"\n",
+				"date_published": "2023-06-22T19:51:32-04:00",
+				"url": "https://jze.ng/2023/06/22/you-ever-yell.html",
+				"tags": ["thought"]
+			},
+			{
+				"id": "http://rushhour.micro.blog/2023/06/22/i-can-hide.html",
+				
+				"content_html": "<p>i can hide the pain points, <br>\nor i can show and tell, <br>\nbuild skyscrapers or tear them down.</p>\n<p>there is no me, <br>\njust who i want to be</p>\n",
+				"content_text": "i can hide the pain points,    \r\nor i can show and tell,    \r\nbuild skyscrapers or tear them down.  \r\n\r\nthere is no me,    \r\njust who i want to be\r\n",
+				"date_published": "2023-06-22T19:48:13-04:00",
+				"url": "https://jze.ng/2023/06/22/i-can-hide.html",
+				"tags": ["poetry"]
+			},
+			{
+				"id": "http://rushhour.micro.blog/2023/06/22/and-when-youre.html",
+				
+				"content_html": "<p>and when you&rsquo;re sad, shelter in writing  <br>\ni can exchange wand for pen,  <br>\nand still be more than life.</p>\n",
+				"content_text": "and when you're sad, shelter in writing     \ni can exchange wand for pen,     \nand still be more than life.\n",
+				"date_published": "2023-06-22T19:46:37-04:00",
+				"url": "https://jze.ng/2023/06/22/and-when-youre.html",
+				"tags": ["poetry"]
+			},
+			{
+				"id": "http://rushhour.micro.blog/2023/06/22/i-am-a.html",
+				
+				"content_html": "<p>i am a grimoire of my actions,<br>\nand all my incantations have consequences,<br>\nand all entropy is final.</p>\n",
+				"content_text": "i am a grimoire of my actions,   \nand all my incantations have consequences,   \nand all entropy is final.\n",
+				"date_published": "2023-06-22T19:45:22-04:00",
+				"url": "https://jze.ng/2023/06/22/i-am-a.html",
+				"tags": ["poetry"]
+			},
+			{
+				"id": "http://rushhour.micro.blog/2023/06/22/im-not-who.html",
+				
+				"content_html": "<p>i&rsquo;m not who i am, even if it&rsquo;s all you see   <br>\ni&rsquo;d like to think my soul is the real me<br>\na tapestry of emotions; not a skeleton</p>\n",
+				"content_text": "i'm not who i am, even if it's all you see      \ni'd like to think my soul is the real me   \na tapestry of emotions; not a skeleton\n",
+				"date_published": "2023-06-22T19:44:05-04:00",
+				"url": "https://jze.ng/2023/06/22/im-not-who.html",
+				"tags": ["poetry"]
+			},
+			{
+				"id": "http://rushhour.micro.blog/2023/06/22/i-dont-like.html",
+				
+				"content_html": "<p>i don&rsquo;t like being on video. <br>\ni cast spells that are ephemeral. <br>\nthat effect change in another dimension.</p>\n",
+				"content_text": "i don't like being on video.    \r\ni cast spells that are ephemeral.    \r\nthat effect change in another dimension.\r\n",
+				"date_published": "2023-06-22T19:41:42-04:00",
+				"url": "https://jze.ng/2023/06/22/i-dont-like.html",
+				"tags": ["poetry"]
+			},
+			{
+				"id": "http://rushhour.micro.blog/2023/06/21/dont-tear-fences.html",
+				
+				"content_html": "<p>don’t tear down fences if you don’t know what they were put up for, don’t put up fences if you don’t know what you’re doing. neither apply to me. i can just lie anywhere, stargazing. i don’t look at the walls. im only afraid of the sky falling on me. and even then, it’s only because id have nothing to look at anymore. itd be so boring. thered be nothing to look forward to anymore.</p>\n",
+				"content_text": "don’t tear down fences if you don’t know what they were put up for, don’t put up fences if you don’t know what you’re doing. neither apply to me. i can just lie anywhere, stargazing. i don’t look at the walls. im only afraid of the sky falling on me. and even then, it’s only because id have nothing to look at anymore. itd be so boring. thered be nothing to look forward to anymore.\n",
+				"date_published": "2023-06-21T15:49:21-04:00",
+				"url": "https://jze.ng/2023/06/21/dont-tear-fences.html"
+			},
+			{
+				"id": "http://rushhour.micro.blog/2023/06/21/143504.html",
+				"title": "random meals",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/101100/2023/3340a6922d.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/101100/2023/af2c318f9b.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/101100/2023/img-4084.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/101100/2023/d503921472.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/101100/2023/555562eb94.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/101100/2023/d0776ff379.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/101100/2023/3340a6922d.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/101100/2023/af2c318f9b.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/101100/2023/img-4084.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/101100/2023/d503921472.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/101100/2023/555562eb94.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/101100/2023/d0776ff379.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-06-21T14:35:04-04:00",
-				"url": "https://jze.ng/2023/06/21/143504.html"
+				"url": "https://jze.ng/2023/06/21/143504.html",
+				"tags": ["food"]
 			},
 			{
 				"id": "http://rushhour.micro.blog/2023/06/16/im-trying-to.html",
@@ -157,22 +228,12 @@
 				"tags": ["thought"]
 			},
 			{
-				"id": "http://rushhour.micro.blog/2023/05/28/214457.html",
-				
-				"content_html": "<p><a href=\"https://www.psychologytoday.com/us/blog/magnetic-partners/202305/the-never-married-a-new-normal\">www.psychologytoday.com/us/blog/m&hellip;</a></p>\n<p>👀</p>\n",
-				"content_text": "[www.psychologytoday.com/us/blog/m...](https://www.psychologytoday.com/us/blog/magnetic-partners/202305/the-never-married-a-new-normal)\n\n👀\n",
-				"date_published": "2023-05-28T21:44:57-04:00",
-				"url": "https://jze.ng/2023/05/28/214457.html",
-				"tags": ["thought"]
-			},
-			{
 				"id": "http://rushhour.micro.blog/2023/05/28/someday-when-the.html",
 				
 				"content_html": "<p>someday when the future meets the past<br>\nwhen your hope is dangling by a string<br>\ni’ll share in your suffering<br>\njust give me reasons to believe<br>\nthat you would do the same for me</p>\n",
 				"content_text": "someday when the future meets the past  \nwhen your hope is dangling by a string  \ni’ll share in your suffering  \njust give me reasons to believe  \nthat you would do the same for me  \n",
 				"date_published": "2023-05-28T20:49:18-04:00",
-				"url": "https://jze.ng/2023/05/28/someday-when-the.html",
-				"tags": ["poetry"]
+				"url": "https://jze.ng/2023/05/28/someday-when-the.html"
 			},
 			{
 				"id": "http://rushhour.micro.blog/2023/05/28/and-when-the.html",
